@@ -1,0 +1,11 @@
+org_name: nullstone
+name: test-s3-bucket
+friendly_name: Test S3 Bucket
+description: Creates a private S3 bucket
+category: datastore
+type: datastore/aws-s3
+appCategories: []
+layer: database
+is_public: false
+provider_types:
+    - aws
